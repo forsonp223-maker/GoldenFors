@@ -1,0 +1,15 @@
+{
+  "short_name": "GoldenFors",
+  "name": "Golden.Fors - Agent IA",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#050a0f",
+  "background_color": "#050a0f"
+}
